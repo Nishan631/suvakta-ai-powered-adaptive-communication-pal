@@ -108,7 +108,7 @@ export default function SignupPage() {
         <div style={{ position: "absolute", top: "18%", left: "25%", width: 320, height: 320, borderRadius: "50%", background: "rgba(255,255,255,0.03)", filter: "blur(70px)", pointerEvents: "none" }} />
         <div style={{ position: "absolute", bottom: "25%", right: "5%", width: 220, height: 220, borderRadius: "50%", background: "rgba(255,255,255,0.05)", filter: "blur(50px)", pointerEvents: "none" }} />
         <div style={{ position: "absolute", top: 36, left: 40, fontSize: 15, letterSpacing: "-0.4px" }}>
-          <span style={{ fontWeight: 400, color: "rgba(255,255,255,0.45)" }}>speak</span><span style={{ fontWeight: 700, color: "#bd9f67" }}>forge</span>
+          <span style={{ fontWeight: 400, color: "rgba(255,255,255,0.45)" }}>Su</span><span style={{ fontWeight: 700, color: "#bd9f67" }}>vakta</span>
         </div>
         <div style={{ position: "absolute", bottom: 56, left: 44, right: 44 }}>
           <div style={{ position: "relative", minHeight: 130 }}>
